@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0382-linked-list-random-node) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -81,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
