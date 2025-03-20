@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-merge-in-between-linked-lists](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
