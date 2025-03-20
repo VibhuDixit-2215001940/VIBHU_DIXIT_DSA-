@@ -1,22 +1,13 @@
 class Solution {
-    public ListNode removeNthFromEnd(ListNode head, int k) {
-        if (head == null || head.next == null) return null;
-        ListNode temp = head;
-        int n = 0;
-        // Count total nodes
-        while (temp != null) {
-            temp = temp.next;
-            n++;
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode res = new ListNode(0, head);
+        ListNode dummy = res;
+        for(int i=0;i<n;i++) head = head.next;
+        while(head!=null){
+            head = head.next;
+            dummy = dummy.next;
         }
-        // If removing the first node
-        if (k == n) return head.next;
-        ListNode prev = null;
-        temp = head;
-        for (int i = 0; i < n - k; i++) {
-            prev = temp;
-            temp = temp.next;
-        }
-        prev.next = temp.next;
-        return head;
+        dummy.next = dummy.next.next;
+        return res.next;
     }
 }
