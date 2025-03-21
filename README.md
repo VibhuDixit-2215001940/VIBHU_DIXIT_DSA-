@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0007-reverse-integer) |
 | [0382-linked-list-random-node](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
