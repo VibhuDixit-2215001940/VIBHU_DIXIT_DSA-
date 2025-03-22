@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0199-binary-tree-right-side-view) |
 ## Math
 |  |
 | ------- |
@@ -109,8 +111,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
