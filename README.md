@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
