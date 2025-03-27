@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0143-reorder-list) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 ## String
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1508-longest-happy-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
