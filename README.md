@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0278-first-bad-version) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 ## Binary Tree
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0954-maximum-sum-circular-subarray) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
