@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
