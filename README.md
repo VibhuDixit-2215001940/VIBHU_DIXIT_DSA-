@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0020-valid-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
