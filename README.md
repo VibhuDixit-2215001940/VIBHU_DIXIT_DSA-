@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0020-valid-parentheses) |
 | [1508-longest-happy-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1508-longest-happy-prefix) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
