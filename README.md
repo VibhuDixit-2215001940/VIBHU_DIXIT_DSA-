@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2050-count-good-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
