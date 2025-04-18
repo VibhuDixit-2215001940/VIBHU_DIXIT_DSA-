@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0038-count-and-say) |
 | [1508-longest-happy-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1508-longest-happy-prefix) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Rolling Hash
