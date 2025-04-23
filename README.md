@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2280-count-good-triplets-in-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0238-product-of-array-except-self) |
+| [2249-count-the-hidden-sequences](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2249-count-the-hidden-sequences) |
 ## Queue
 |  |
 | ------- |
