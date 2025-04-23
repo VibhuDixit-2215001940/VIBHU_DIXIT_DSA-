@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0797-rabbits-in-forest) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1500-count-largest-group](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0445-add-two-numbers-ii) |
 | [0797-rabbits-in-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2415-count-the-number-of-ideal-arrays) |
