@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -266,10 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0954-maximum-sum-circular-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Interactive
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Greedy
