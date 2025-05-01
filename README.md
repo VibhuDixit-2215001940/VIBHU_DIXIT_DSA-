@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0797-rabbits-in-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0797-rabbits-in-forest) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0047-permutations-ii) |
+| [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0238-product-of-array-except-self) |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
