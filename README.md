@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0189-rotate-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0125-valid-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1508-longest-happy-prefix) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Rolling Hash
