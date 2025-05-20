@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2998-count-symmetric-integers) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2083-three-divisors](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2083-three-divisors) |
 | [2998-count-symmetric-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/3548-find-the-count-of-good-integers) |
 ## Trie
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Matrix
 |  |
