@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0047-permutations-ii) |
 | [0368-largest-divisible-subset](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0368-largest-divisible-subset) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1675-magnetic-force-between-two-balls) |
