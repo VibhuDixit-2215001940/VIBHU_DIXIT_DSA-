@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0020-valid-parentheses) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
