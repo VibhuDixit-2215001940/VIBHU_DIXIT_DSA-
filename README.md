@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0125-valid-palindrome) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0368-largest-divisible-subset) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
