@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0169-majority-element) |
 | [0797-rabbits-in-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0797-rabbits-in-forest) |
 | [1207-delete-nodes-and-return-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0954-maximum-sum-circular-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0238-product-of-array-except-self) |
 | [0368-largest-divisible-subset](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0368-largest-divisible-subset) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0368-largest-divisible-subset) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
