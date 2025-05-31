@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0287-find-the-duplicate-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2280-count-good-triplets-in-an-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0797-rabbits-in-forest) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
