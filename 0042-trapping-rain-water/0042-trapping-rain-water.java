@@ -13,9 +13,9 @@ class Solution {
     }
     public int trap(int[] arr) {
         int n = arr.length, ans = 0;
-        int[] l = leftMax(arr,n);
-        int[] r = rightMax(arr,n);
-        for(int i=0;i<n;i++) ans += Math.min(l[i],r[i]) - arr[i];
+        int[] lmax = leftMax(arr,n);
+        int[] rmax = rightMax(arr,n);
+        for(int i=0;i<n;i++) ans += Math.min(lmax[i],rmax[i])-arr[i];
         return ans;
     }
 }
