@@ -12,10 +12,10 @@ class Solution {
         return r;
     }
     public int trap(int[] arr) {
-        int n = arr.length, ans = 0;
+        int n = arr.length, ans=0;
         int[] lmax = leftMax(arr,n);
         int[] rmax = rightMax(arr,n);
-        for(int i=0;i<n;i++) ans += Math.min(lmax[i],rmax[i])-arr[i];
+        for(int i=0;i<n;i++) ans += (lmax[i]<rmax[i])?lmax[i]-arr[i]:rmax[i]-arr[i];
         return ans;
     }
 }
