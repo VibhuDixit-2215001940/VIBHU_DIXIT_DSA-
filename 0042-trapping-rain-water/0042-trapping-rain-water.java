@@ -1,8 +1,11 @@
 class Solution {
     public int trap(int[] arr) {
-        int n=arr.length;int[] l=new int[n];l[0]=arr[0];for(int i=1;i<n;i++)l[i]=Math.max(l[i-1],arr[i]);
-        int[] r = new int[n];r[n-1]=arr[n-1];for(int i=n-2;i>=0;i--)r[i]=Math.max(r[i+1],arr[i]);
-        int ans =  0;for(int i=0;i<n;i++)ans+=Math.min(l[i],r[i])-arr[i];
+        int n = arr.length,l=0,hi=n-1,lmax=Integer.MIN_VALUE,rmax=Integer.MIN_VALUE,ans=0;
+        while(l<hi){
+            lmax = Math.max(lmax,arr[l]);
+            rmax = Math.max(rmax,arr[hi]);
+            ans += (lmax<rmax)?lmax-arr[l++]:rmax-arr[hi--];
+        }
         return ans;
     }
 }
