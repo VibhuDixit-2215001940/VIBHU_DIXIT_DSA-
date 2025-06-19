@@ -1,7 +1,15 @@
+//RADHE RADHE ✌️❤️❤️
 class Solution {
     public void deleteNode(ListNode node) {
-        if(node == null || node.next == null) return ;
-        node.val = node.next.val;
-        node.next = node.next.next;
+        ListNode prev = null;
+        while(node != null && node.next != null){
+            node.val = node.next.val;
+            prev = node;
+            node = node.next;
+        }
+        if(node != null){
+            if(prev != null) prev.next = null;
+            else node = null;
+        }
     }
 }
