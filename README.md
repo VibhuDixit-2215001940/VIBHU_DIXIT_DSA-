@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0096-unique-binary-search-trees](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0278-first-bad-version) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0013-roman-to-integer) |
+| [0096-unique-binary-search-trees](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0382-linked-list-random-node) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VibhuDixit-2215001940/VIBHU_DIXIT_DSA-/tree/master/0954-maximum-sum-circular-subarray) |
